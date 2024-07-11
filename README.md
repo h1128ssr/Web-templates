@@ -5,7 +5,7 @@ to download my folder 1 byt 1 go to this site steps are given billow
 <br>
 <br>
 step 1 = copy url of the folder
-![Screenshot (1)](https://github.com/h1128ssr/Web-templates/assets/171378648/7e4604dd-b59f-4595-9816-1179007aea1b)
+![Screenshot (1)](https://github.com/h1128ssr/Web-templates/assets/171378648/8ac712bf-73ac-4894-85a3-b3cedee5ef60)
 <br>
 <br>
 step 2 =
