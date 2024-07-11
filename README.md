@@ -1,8 +1,4 @@
 # Web-templates you can also download and use it
-<style>
-  img {
-    height: 10%;
-</style>
 <br>
 <br>
 to download my folder 1 byt 1 go to this site steps are given billow
@@ -12,8 +8,8 @@ step 1 = copy url of the folder
 <br>
 <img src="https://github.com/h1128ssr/Web-templates/assets/171378648/8ac712bf-73ac-4894-85a3-b3cedee5ef60">
 <br>
+<hr>
 <br>
-step 2 =
-<br>
+step 2 = paste on this site and press download
 <br>
 https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fh1128ssr%2FWeb-templates%2Ftree%2Fmain%2FWeb%2520template%25201
