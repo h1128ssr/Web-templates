@@ -1,1 +1,1 @@
-Web-template 1
+Home page
