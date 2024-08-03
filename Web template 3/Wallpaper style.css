@@ -1,0 +1,72 @@
+body {
+    background-image: linear-gradient(to left top, blue, rgb(255, 0, 43), red);
+    margin: 0;
+    font-family: sans-serif;
+}
+
+img {
+    display: flex;
+    height: 300px;
+    position: relative;
+    top: -150px;
+    left: 100px;
+    border: 2px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 0;
+}
+
+button {
+    font-family: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -100px;
+    left: 660px;
+    width: 140px;
+    border: 0;
+    padding: 14px 12px;
+    outline: none;
+    color: #fff;
+    background-color: cornflowerblue;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: width 0.3s;
+}
+
+button:hover {
+    width: 170px;
+}
+
+p {
+    font-family: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 230px;
+    left: 200px;
+}
+
+.Head-line {
+    font-family: bold;
+    font-size: 25px;
+}
+
+p {
+    display: flex;
+    position: relative;
+    top: 150px;
+    left: 660px;
+    height: 50px;
+    width: 400px;
+    border: 0;
+    padding: 14px 12px;
+    outline: none;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.267);
+    border-radius: 6px;
+}
