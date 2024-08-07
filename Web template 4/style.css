@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("/New_Web_Project/abstract-blue-background-simple-design-for-your-website-free-vector.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+.bg-darkness {
+    z-index: -2;
+    display: flex;
+    position: absolute;
+    top: -530%;
+    left: -200%;
+    height: 1400%;
+    width: 1000%;
+    background-color: transparent;
+    transition: 1s;
+}
+
+
+.main .holder input:focus ~ div,
+.main .holder input:valid ~ div{
+    backdrop-filter: blur(5px);
+}
+
+
+.main {
+    z-index: 8;
+    display: flex;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+.main .holder input {
+    display: flex;
+    position: relative;
+    height: 50px;
+    width: 369px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+    outline: none;
+    font-size: 17px;
+}
+
+
+.main .holder img {
+    display: flex;
+    position: absolute;
+    height: 35px;
+    top: 10%;
+    left: 86%;
+    transition: 0.5s;
+}
+
+.main .holder input:focus ~ img,
+.main .holder input:valid ~ img{
+    top: 5%;
+    left: 103%;
+    height: 45px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+}
+
+
+.title {
+    z-index: 9;
+    display: flex;
+    position: absolute;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    top: 20%;
+    left: 35%;
+}
+
+
+/*.main .holder .suggestion {
+    z-index: -1;
+    display: flex;
+    position: absolute;
+    background-color: white;
+    top: 100%;
+    height: 0;
+    width: 369px;
+    border-radius: 30px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.main .holder input:focus ~ .suggestion,
+.main .holder input:valid ~ .suggestion{
+    height: 300px;
+}
