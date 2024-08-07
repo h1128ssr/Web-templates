@@ -1,4 +1,4 @@
-# Web-templates you can also download and use it
+# Web-templates you can download and use it but its not responsive web's
 <br>
 <br>
 to download my folder 1 byt 1 go to this site steps are given billow
